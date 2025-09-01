@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # FoodApp
 >>>>>>> 53e2e7c1728b116cc6a0e356af0e2eef8f99e5a0
+
+>>>>>>> ![App Screenshot](./src/assets/Screenshot%20(104).png)
