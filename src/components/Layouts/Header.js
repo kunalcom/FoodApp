@@ -37,7 +37,7 @@ const Header = () => {
               <Nav.Link as={Link} to="/about">
                 About
               </Nav.Link>
-              <Nav.Link as={Link} to="https://order-whirl-menu.lovable.app/">
+              <Nav.Link as={Link} to="https://menu-theta-seven.vercel.app/">
                 Our Menu
               </Nav.Link>
               <Nav.Link as={Link} to="/shop">
